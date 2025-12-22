@@ -98,7 +98,6 @@ st.markdown("""
 st.markdown("""
 <div style="text-align:center;">
     <div class="title">Padang Food Detection</div>
-    <div class="subtitle">Classical Computer Vision + SVM</div>
 </div>
 """, unsafe_allow_html=True)
 
